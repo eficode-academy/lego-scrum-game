@@ -17,6 +17,12 @@ tension.
 
 This document describes the implementation as used by Praqma of the LEGO scrum game platform from lego4scrum.
 
+In this document we assume that we are working with a large (40+)
+people, it should be trivially reducable to lesser groups.
+
+## The story
+You have a vision. A vision of a city of grandeur, a large spaceport or a cozy garden. It is YOUR city. You don't have it entirely planned out, but you think you know what you want. You are the Product Owner from Hell. Luckily you have a pool of strong developers that will help you. They will in teams using state of the art Agile Task Management methods! They will form teams and help you realize your ever-changing vision of this city.
+
 ## Pre-game prep 
 ### Supplies 
 * Lots of post-its - a pad per team
@@ -25,6 +31,9 @@ This document describes the implementation as used by Praqma of the LEGO scrum g
 * Boards, flipovers or big pieces of paper that you can put on a wall. These will hold the swim lanes
 * LEGO bricks - set #6177 is recommeded by lego4scrum. Anything that does not force the users into specific things will work. One box per team.
 
+## Running the game
+### Roles
+#### Trainer
 ### Making teams
 
 ## Game round
