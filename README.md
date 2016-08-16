@@ -31,11 +31,30 @@ You have a vision. A vision of a city of grandeur, a large spaceport or a cozy g
 * Boards, flipovers or big pieces of paper that you can put on a wall. These will hold the swim lanes
 * LEGO bricks - set #6177 is recommeded by lego4scrum. Anything that does not force the users into specific things will work. One box per team.
 
+### Setup
+Make sure that each team has a table to work. Each city should have a spot where the elements of the city can be placed after acceptance.
+
+Each team also needs to have a place to put their swimlane. It is nice if they
+
 ## Running the game
 ### Roles
-#### Trainer
+
+#### Trainer 
+
+The trainer is usually the person in charge of the
+event. The trainer introduces the game. He describes the setting and the tools that are going on.
+The trainer has the responsibility for keeping the pace.
+
+#### Product Owner
+#### Developer
+#### (SCRUM master)
 ### Making teams
 
-## Game round
+### Naming teams 
 
-## Post-game evalutation
+### Selecting team leads 
+### joint backlog
+
+### Game rounds
+
+## Post-game evaluation
