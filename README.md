@@ -1,5 +1,5 @@
 # Praqmatic Lego game
-At [http://praqma.com/](Praqma) we have run quite a bit of training in Agile Task Management. Recently while doing [http://www.code-conf.com/academy2016/](CoDe Academy) we added the [http://lego4scrum.com/](LEGO scrum game). 
+At [Praqma](http://praqma.com/) we have run quite a bit of training in Agile Task Management. Recently while doing [CoDe Academy](http://www.code-conf.com/academy2016/) we added the (http://lego4scrum.com)[LEGO scrum game]. 
 
 The reason that we have added the LEGO scrum game to our toolbox is
 that it allows us to run a number of very short sprints with focus
@@ -27,6 +27,6 @@ This document describes the implementation as used by Praqma of the LEGO scrum g
 
 ### Making teams
 
-## Game rounds
+## Game round
 
 ## Post-game evalutation
