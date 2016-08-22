@@ -96,6 +96,8 @@ The PO has the team estimate how big each task is.
 Each team makes a "deal" with the PO of which tasks they can finish in this sprint.
 
 It is the important that the PO does not have an idea about the scope, or necessarily cares about implementation. The PO doesn't know everything at this point, he just has a vision.
+
+The priorities are not static, the product owner is allowed to change priorities and ask task.s
 #### Sprint
 #### Delivery
 #### Retrospective
