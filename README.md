@@ -51,10 +51,53 @@ The trainer has the responsibility for keeping the pace.
 ### Making teams
 
 ### Naming teams 
+Make sure to get team names, they are fun and serve as a nice break and garner team spirit.
 
 ### Selecting team leads 
+Make sure to elect team leads on each team they can make sure that they have the right backlog.
+
 ### joint backlog
+After teams are made, named and has elected a team lead we create the common backlog. What we need for our city. You can create it with the developers helping - again giving a nice community feel.
+Make sure that
+#### Suggestions for tasks
+
+* Multiple 1-storey buildings 
+* fewer 2-storey buildings
+* Shop
+* Church
+* Hospital
+* School
+* Police Station
+* Fire Station
+* Park
+* Bridge
+* River ( Optional )
+* Amusement Park
+* Roller Coaster 
+* Zoo
+* Bowling Alley
+* Dev shop
+* Intersection
+* Round-about
+* Roads
+* Pub
+* Parking
+
+Make sure to have each team lead gather the tasks that you agree upon.
+
+Depending on how many participants you have group the teams together in "cities". In our experience three teams to a city makes sense. These teams have their own backlog which gets fed from the city backlog.
 
 ### Game rounds
+#### Sprint planning
+The product owner prioritizes each task in the joint backlog. 
 
+The PO has the team estimate how big each task is.
+
+Each team makes a "deal" with the PO of which tasks they can finish in this sprint.
+
+It is the important that the PO does not have an idea about the scope, or necessarily cares about implementation. The PO doesn't know everything at this point, he just has a vision.
+#### Sprint
+#### Delivery
+#### Retrospective
+#### Events
 ## Post-game evaluation
