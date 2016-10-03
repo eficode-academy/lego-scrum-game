@@ -95,11 +95,53 @@ The PO has the team estimate how big each task is.
 
 Each team makes a "deal" with the PO of which tasks they can finish in this sprint.
 
-It is the important that the PO does not have an idea about the scope, or necessarily cares about implementation. The PO doesn't know everything at this point, he just has a vision.
+It is the important that the PO does not have an idea about the scope, or necessarily cares about implementation. The PO does not know everything at this point, he just has a vision.
 
-The priorities are not static, the product owner is allowed to change priorities and ask task.s
+The priorities are not static, the product owner is allowed to change priorities and ask for new tasks.
+
+Each team grabs what tasks they believe they can finish and puts them into the team sprint backlog.
 #### Sprint
+This is when the teams actually play with the legos, trying to produce solutions to the tasks that they have agreed with their PO on.
+
+If they forget to things to the __in progress__ column the PO can go to the team, that is very likely extremely busy building, and ask them why they are not working. The PO of course does not know what they are working on if it is not on the board.
+
+A global clock may be used, or it may be up to the teams themselves to keep track of time. The important part of the exercise leader is to make sure that the sprints do not overflow the timeslot.
 #### Delivery
+At the delivery the PO can ask the teams to show the products they have made either accepting or rejecting each task.
+Tasks that are not done of cause stays in the team backlog. The PO of course tries to push the team to overcommit and add more tasks to their backlog.
+
 #### Retrospective
+We are not doing agile if we are not trying to improve our process.
+The retrospectives can be timeboxed or just last as long as is needed for each iteration.
+It could reasonably be said that most of the learning takes place at the retrospectives and this means that time spent here is well spent.
+
+There can be an advantage in timeboxing them in order to give a more cohesive experience for the participants.
+Especially with multiple teams having them aligned in schedule is advantageous.
+
+So far in the lego scrum games we've done the POs have been the ones driving the retrospectives.
+This is probably a good idea if the games are relatively brief. 
+
+In a longer setting there could be a point in having the team leads or scrum masters run the retrospective and have the POs serve as coaches to the people running the retrospectives.
+
+This is of course a more difficult assignment to do efficiently, for both teachers and students, but could provide a more solid and relatable understanding.
 #### Events
+A lot of external events can influence on how efficiently an agile team can work.
+We are tinkering with the idea of having these events happen at random during a game.
+
+This could give fun, more gamified approach rather than having all the troubles stem from the POs being incompetent or annoying.
+
+This of course needs to be balanced with the events not obscuring the learning goals or just being useless distractions and frustrations.
+
+The following events could be written on notes and be drawn at random points in the game:
+- Send a developer to another team
+- Switch team lead
+- Rotate teamleads between cities
+- A dev is sick and will not participate in the next sprint
+- PO is at a conference and can not receive any deliveries this sprint
+- Trade a team with another city
+- New policy from management: all buildings must be peer reviewed
+- Team lead is at meetings entire sprint and will not be building anything this sprint
+
+
+#### Learning goals for each round
 ## Post-game evaluation
