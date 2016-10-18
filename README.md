@@ -21,11 +21,11 @@ In this document we assume that we are working with a large (40+)
 people, it should be trivially reducable to lesser groups.
 
 ## The story
-You have a vision. A vision of a city of grandeur, a large spaceport or a cozy garden. It is YOUR city. You don't have it entirely planned out, but you think you know what you want. You are the Product Owner from Hell. Luckily you have a pool of strong developers that will help you. They will in teams using state of the art Agile Task Management methods! They will form teams and help you realize your ever-changing vision of this city.
+You have a vision. A vision of a city of grandeur, a large spaceport or a cozy garden. It is YOUR city. You don't have it entirely planned out, but you think you know what you want. You are the Product Owner from Hell. Luckily you have a pool of strong developers that will help you. They will work in teams using state of the art Agile Task Management methods! They will help you realize your ever-changing vision of this city.
 
 ## Pre-game prep 
 ### Supplies 
-* Lots of post-its - a pad per team
+* Lots of post-its - a pad or two per team
 * Pens
 * Something to provide a surface on which to place the cities - large pieces of paper will do
 * Boards, flipovers or big pieces of paper that you can put on a wall. These will hold the swim lanes
@@ -34,7 +34,9 @@ You have a vision. A vision of a city of grandeur, a large spaceport or a cozy g
 ### Setup
 Make sure that each team has a table to work. Each city should have a spot where the elements of the city can be placed after acceptance.
 
-Each team also needs to have a place to put their swimlane. It is nice if they
+Each team also needs to have a place to put their swimlane. It is nice if they have a wall near their "workplace"
+
+Depending on how many participants you have group the teams together in "cities". In our experience three teams to a city makes sense.
 
 ## Running the game
 ### Roles
@@ -46,6 +48,9 @@ event. The trainer introduces the game. He describes the setting and the tools t
 The trainer has the responsibility for keeping the pace.
 
 #### Product Owner
+
+Product owner is also from the event team. It is best if there is one product owner per city/group of teams.
+
 #### Developer
 #### (SCRUM master)
 ### Making teams
@@ -54,7 +59,7 @@ The trainer has the responsibility for keeping the pace.
 Make sure to get team names, they are fun and serve as a nice break and garner team spirit.
 
 ### Selecting team leads 
-Make sure to elect team leads on each team they can make sure that they have the right backlog.
+Make sure to elect team leads on each team so they can make sure that they have the right backlog. Also team-lead is the one both product owner and trainer communicates with.
 
 ### joint backlog
 After teams are made, named and has elected a team lead we create the common backlog. What we need for our city. You can create it with the developers helping - again giving a nice community feel.
@@ -83,9 +88,9 @@ Make sure that
 * Pub
 * Parking
 
-Make sure to have each team lead gather the tasks that you agree upon.
+Make sure to have each team lead gather the tasks that you agree upon, and produce the post-its for them.
 
-Depending on how many participants you have group the teams together in "cities". In our experience three teams to a city makes sense. These teams have their own backlog which gets fed from the city backlog.
+Each team have their own backlog which gets fed from the city backlog.
 
 ### Game rounds
 #### Sprint planning
@@ -95,7 +100,7 @@ The PO has the team estimate how big each task is.
 
 Each team makes a "deal" with the PO of which tasks they can finish in this sprint.
 
-It is the important that the PO does not have an idea about the scope, or necessarily cares about implementation. The PO does not know everything at this point, he just has a vision.
+At this point, it is important that the PO does not have an idea about the scope, or necessarily cares about implementation. The PO does not know everything, he just has a vision.
 
 The priorities are not static, the product owner is allowed to change priorities and ask for new tasks.
 
