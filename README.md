@@ -149,4 +149,11 @@ The following events could be written on notes and be drawn at random points in 
 
 
 #### Learning goals for each round
+Here are some ideas for learning goals:
+ - Small selforganizing teams: start off by not deviding people into 4 groups but having them in one and look at the bottlenecks.
+ - Minimize work in progress: try to make them work on more than they can chew, preassure them to overcomitting.
+ - Communication with the PO.
+
+ 
+ 
 ## Post-game evaluation
