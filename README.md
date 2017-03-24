@@ -129,6 +129,7 @@ This is probably a good idea if the games are relatively brief.
 In a longer setting there could be a point in having the team leads or scrum masters run the retrospective and have the POs serve as coaches to the people running the retrospectives.
 
 This is of course a more difficult assignment to do efficiently, for both teachers and students, but could provide a more solid and relatable understanding.
+
 #### Events
 A lot of external events can influence on how efficiently an agile team can work.
 We are tinkering with the idea of having these events happen at random during a game.
@@ -147,13 +148,36 @@ The following events could be written on notes and be drawn at random points in 
 - New policy from management: all buildings must be peer reviewed
 - Team lead is at meetings entire sprint and will not be building anything this sprint
 
-
 #### Learning goals for each round
 Here are some ideas for learning goals:
- - Small selforganizing teams: start off by not deviding people into 4 groups but having them in one and look at the bottlenecks.
+ - Small self organizing teams: start off by not dividing people into 4 groups but having them in one and look at the bottlenecks.
  - Minimize work in progress: try to make them work on more than they can chew, preassure them to overcomitting.
  - Communication with the PO.
 
  
  
 ## Post-game evaluation
+After the game it is important that we reiterate what learning points we are trying to emphasize throughout this game.
+Most likely the students are confused and a bit annoyed with the product owners.
+
+The following points are essential to bring forth: 
+- It is not that far from real life experience
+- Small Tasks
+- Minimize Feedback Loop
+- Destroy your assumptions
+- Continous Integration / Feedback is an enable
+- Demand access to your PO throughtout the sprint
+
+
+## Outline for session of 2 x 45 minutes
+- Introduction (15 minutes)
+  - Who's got the roles
+  - Place people
+  - Make sure everyone has supplies
+- 3 iterations with retrospectives
+
+- Break
+
+- 3 Iterattions with retrospective
+- Post game evaluation (15 minutes)
+
